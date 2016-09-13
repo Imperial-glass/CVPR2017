@@ -1,0 +1,42 @@
+\begin{thebibliography}{1}\itemsep=-1pt
+
+\bibitem{CalibToolbox}
+J.-Y. Bouguet.
+\newblock {Camera Calibration Toolbox for Matlab}, 2005.
+
+\bibitem{Hullin08:FIRS}
+M.~B. Hullin, M.~Fuchs, I.~Ihrke, H.-P. Seidel, and H.~P.~A. Lensch.
+\newblock {Fluorescent Immersion Range Scanning}.
+\newblock {\em ACM Trans. on Graphics (SIGGRAPH'08)}, 27(3):87:1 -- 87:10,
+  2008.
+
+\bibitem{Ihrke10:TSOR}
+I.~Ihrke, K.~N. Kutulakos, H.~P.~A. Lensch, M.~Magnor, and W.~Heidrich.
+\newblock Transparent and specular object reconstruction.
+\newblock {\em Computer Graphics Forum}, 29(8):2400--2426, 2010.
+
+\bibitem{Kutulakos:2005:ICCV}
+K.~N. Kutulakos and E.~Steger.
+\newblock A theory of refractive and specular 3d shape by light-path
+  triangulation.
+\newblock In {\em 10th {IEEE} International Conference on Computer Vision
+  {(ICCV} 2005), 17-20 October 2005, Beijing, China}, pages 1448--1455, 2005.
+
+\bibitem{Maruyama:77}
+Y.~Maruyama, K.~Iwata, and R.~Nagata.
+\newblock Determination of axially symmetrical refractive index distribution
+  from directions of emerging rays.
+\newblock {\em Appl. Opt.}, 16(9):2500--2503, Sep 1977.
+
+\bibitem{Trifonov:2006:TRT}
+B.~Trifonov, D.~Bradley, and W.~Heidrich.
+\newblock {Tomographic Reconstruction of Transparent Objects}.
+\newblock In {\em {Proc. Eurographics Symposium on Rendering}}, pages 51--60,
+  2006.
+
+\bibitem{vest1985}
+C.~M. Vest.
+\newblock Tomography for properties of materials that bend rays: a tutorial.
+\newblock {\em Appl. Opt.}, 24(23):4089--4094, 1985.
+
+\end{thebibliography}
